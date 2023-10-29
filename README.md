@@ -1,4 +1,4 @@
-Hello there! 👋 I'm [TANISH DEY], a passionate manual tester with expertise in ensuring the quality and reliability of software through meticulous testing processes.
+Hello there! 👋 I'm TANISH DEY, a passionate manual tester with expertise in ensuring the quality and reliability of software through meticulous testing processes.
 
 ## Skills
 
