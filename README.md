@@ -1,38 +1,33 @@
-Hello there! 👋 I'm TANISH DEY, a passionate manual tester with expertise in ensuring the quality and reliability of software through meticulous testing processes.
+<p align="center">
+  <img src="https://your-image-url.com/your-image.png" alt="Your Name" />
+</p>
 
-## Skills
+# Hi there! 👋 I'm [Your Name]
 
-- **Manual Testing:** Proficient in various manual testing techniques to identify and resolve software defects.
-- **Test Scenarios & Test Cases:** Experienced in crafting comprehensive test scenarios and test cases to validate software functionality.
-- **MySQL:** Skilled in database testing, including data validation, integrity checks, and SQL querying.
-- **Jira:** Well-versed in using Jira for efficient test management, issue tracking, and project management.
-- **Postman:** Competent in API testing using Postman, ensuring seamless communication between software components.
-- **API Testing:** Expertise in testing APIs to verify data exchange, functionality, and system integration.
-- **Excel:** Proficient in using Excel for test data management, reporting, and data analysis.
+Passionate Manual Tester with a knack for breaking code and ensuring software excellence.
 
-## Projects
+## Skills 🚀
 
-### [Shopperstack]
+- **Manual Testing:** Crafting quality test scenarios and test cases.
+- **MySQL:** Database testing and SQL querying.
+- **Jira:** Efficient test and project management.
+- **Postman:** API testing and seamless communication.
+- **Excel:** Test data management and reporting.
 
-## How to Reach Me
+## Projects 🛠️
 
-- LinkedIn: (www.linkedin.com/in/tanish-dey-6921a1217)
-- Email: (tanishdey.per@gmail.com)
+### [Project Name 1]
+
+Brief description of the project and your role. Highlight any specific testing challenges and how you overcame them.
+
+### [Project Name 2]
+
+Another project description, showcasing your contribution to the testing process and any notable achievements or improvements.
+
+## Let's Connect! 🌐
+
+- **LinkedIn:** [Your LinkedIn Profile](link)
+- **Email:** [Your Email Address](mailto:you@example.com)
 
 Feel free to explore my repositories and reach out for collaboration or discussions related to manual testing, QA, or anything testing-related. Let's ensure software quality together! 🚀
 
-
-<!--
-**tanishdey09/Tanishdey09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
